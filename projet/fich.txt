@@ -1,0 +1,25 @@
+      Date                  Gouvernorat       cas positifs      gérisons          Décès        nombre de vaccins
+10    Mars       2021          Ariana                  50            30                10            200
+10    Mars       2021          Beja                    40            20                 5            100
+10    Mars       2021          Ben Arous               50            40                 7            200
+11    Mars       2021          Ariana                  50            30                10            200
+12    Mars       2021          Beja                    40            20                 5            100
+13    Mars       2021          Ben Arous               50            40                 7            200
+14    Mars       2021          Ariana                  50            30                10            200
+15    Mars       2021          Beja                    40            20                 5            100
+16    Mars       2021          Ben Arous               50            40                 7            200
+17    Mars       2021          Ariana                  50            30                10            200
+18    Mars       2021          Beja                    40            20                 5            100
+19    Mars       2021          Ben Arous               50            40                 7            200
+20    Mars       2021          Ariana                  50            30                10            200
+21    Mars       2021          Beja                    40            20                 5            100
+22    Mars       2021          Ben Arous               50            40                 7            200
+23    Mars       2021          Ariana                  50            30                10            200
+24    Mars       2021          Beja                    40            20                 5            100
+25    Mars       2021          Ben Arous               50            40                 7            200
+26    Mars       2021          Ariana                  50            30                10            200
+27    Mars       2021          Beja                    40            20                 5            100
+28    Mars       2021          Ben Arous               50            40                 7            200
+29    Mars       2021          Ariana                  50            30                10            200
+30    Mars       2021          Beja                    40            20                 5            100
+31    Mars       2021          Ben Arous               50            40                 7            200

@@ -1,0 +1,201 @@
+Ariana 10 Mars 2020 10 10 10 10
+Sousse 10 Avril 2021 20 20 20 20
+Ariana 10 Mars 2020 200 200 200 200
+Ariana 1 Mars 2020 10 10 10 10
+Ariana 11 Mars 2020 20 20 20 20
+Ariana 12 Mars 2020 30 30 30 30
+Ben Arous 1 Avril 2020 10 10 10 10
+Ben Arous 2 Avril 2020 20 20 20 20
+Ben Arous 3 Avril 2020 30 30 30 30
+Ariana 1 Mars 2020 10 10 10 10
+Ariana 2 Mars 2020 20 20 20 20
+Ariana 3 Mars 2020 30 30 30 30
+Ariana 1 Mars 2020 10 10 10 10
+Ariana 2 Mars 2020 20 20 20 20
+Ariana 3 Mars 2020 30 30 30 30
+Ariana 20 Mars 2020 10 10 10 10
+Ariana 21 Mars 2021 20 20 20 20
+Ariana 22 Mars 2020 30 30 30 30
+Ariana 29 Fevrier 2020 10 10 10 10
+Ariana 13 Fevrier 2021 500 500 500 5000
+Ariana 17 Avril 2021 1000000 1000000 1000000 1000000000
+Ariana 27 Juin 2020 0 0 0 0
+yfg 23 Mars 2020 10 10 10 10
+Ariana 10 Mars 2020 10 10 10 10
+Ariana 11 Mars 2020 20 20 20 20
+Ariana 10 Mars 2020 100 0 1000 0
+Ariana 11 Avril 2021 10000 0 100000 0
+Ariana 10 Mars 2020 10 10 10 10
+Ariana 11 Mars 2020 20 20 20 20
+Ariana 10 Mars 2020 10 10 10 10
+Ariana 11 Mars 2021 20 20 20 20
+Ariana 1 Mars 2020 10 10 10 10
+Ariana 2 Mars 2020 20 20 20 20
+Ariana 10 Mars 2020 10 10 10 10
+Ariana 11 Avril 2021 20 20 20 20
+Ariana 10 Mars 2020 10 10 10 10
+Ariana 11 Mars 2020 20 20 20 20
+Ariana 12 Mars 2020 30 30 30 30
+Ariana 10 Mars 2020 10 10 10 10
+Ariana 11 Mars 2020 20 20 20 20
+Ariana 12 Mars 2020 30 30 30 30
+Ariana 10 Mars 2020 10 10 10 10
+Ariana 11 Mars 2020 20 20 20 20
+Ariana 12 Mars 2020 30 30 30 30
+Ariana 10 Mars 2020 10 10 10 10
+Ariana 10 Mars 2020 10 10 10 10
+Ariana 10 Mars 2020 1 1 1 1
+Ariana 10 Mars 2020 10 10 10 10
+Ariana 10 Mars 2021 10 20 30 2000
+Ariana 10 Mars 2021 10 20 30 4000
+
+----------------------------------
+11    Mars       2021   Le Kef               50                40               7          200 
+11    Mars       2021      Mahdia          50                30              10         200
+11    Mars       2021       Medenine     40                20               5          100
+11    Mars       2021   Monastir          50                40               7          200 
+11    Mars       2021      Nabeul           50                30              10         200
+11    Mars       2021       Sfax              40                20               5          100
+11    Mars       2021   Sidi Bouzid      50                40               7          200       
+11    Mars       2021      Siliana           30                25               7          200
+11    Mars       2021       Sousse          50                20               7          100
+11    Mars       2021   Tataouine        50                40              10         200
+11    Mars       2021    Tozeur            45                 30              10        200
+11    Mars       2021     Tunis              45                 25               5         150
+11    Mars       2021    Zaghouan      45                 30              10        300
+12    Mars       2021      Ariana             50                30              10         200
+12    Mars       2021        Beja               40                20               5          100
+12    Mars       2021   Ben Arous          50                40               7          200 
+12    Mars       2021      Bizerte             50                30              10         200
+12    Mars       2021        Gabes             40                20               5          100
+12    Mars       2021        Gafsa             50                40               7          200 
+12    Mars       2021      Jendouba         50                30              10         200
+12    Mars       2021        Kairouan       40                20               5          100
+12    Mars       2021   Kasserine           50                40               7          200 
+12    Mars       2021     Kebili               50                30              10         200
+12    Mars       2021     La Manouba    40                20               5          100
+12    Mars       2021   Le Kef               50                40               7          200 
+12    Mars       2021      Mahdia          50                30              10         200
+12    Mars       2021       Medenine     40                20               5          100
+12    Mars       2021   Monastir          50                40               7          200 
+12    Mars       2021      Nabeul           50                30              10         200
+12    Mars       2021       Sfax              40                20               5          100
+12    Mars 2021   Sidi Bouzid      50                40               7          200       
+12    Mars 2021      Siliana           30                25               7          200
+12    Mars 2021       Sousse          50                20               7          100
+12    Mars 2021   Tataouine        50                40              10         200
+12    Mars 2021    Tozeur            45                 30              10        200
+12    Mars 2021     Tunis              45                 25               5         150
+12    Mars 2021    Zaghouan      45                 30              10        300
+13    Mars 2021      Ariana             50                30              10         200
+13    Mars 2021        Beja               40                20               5          100
+13    Mars 2021   Ben Arous          50                40               7          200 
+13    Mars 2021      Bizerte             50                30              10         200
+13    Mars 2021        Gabes             40                20               5          100
+13    Mars 2021        Gafsa             50                40               7          200 
+13    Mars 2021      Jendouba         50                30              10         200
+13    Mars 2021        Kairouan       40                20               5          100
+13    Mars 2021   Kasserine           50                40               7          200 
+13    Mars 2021     Kebili               50                30              10         200
+13    Mars 2021     La Manouba    40                20               5          100
+13    Mars 2021   Le Kef               50                40               7          200 
+13    Mars 2021      Mahdia          50                30              10         200
+13    Mars 2021       Medenine     40                20               5          100
+13    Mars 2021   Monastir          50                40               7          200 
+13    Mars 2021      Nabeul           50                30              10         200
+13    Mars 2021       Sfax              40                20               5          100
+13    Mars 2021   Sidi Bouzid      50                40               7          200       
+13    Mars 2021      Siliana           30                25               7          200
+13    Mars 2021       Sousse          50                20               7          100
+13    Mars 2021   Tataouine        50                40              10         200
+13    Mars 2021    Tozeur            45                 30              10        200
+13    Mars 2021     Tunis              45                 25               5         150
+13    Mars 2021    Zaghouan      45                 30              10        300
+14    Mars 2021      Ariana             50                30              10         200
+14    Mars 2021        Beja               40                20               5          100
+14    Mars 2021   Ben Arous          50                40               7          200 
+14    Mars 2021      Bizerte             50                30              10         200
+14    Mars 2021        Gabes             40                20               5          100
+14    Mars 2021        Gafsa             50                40               7          200 
+14    Mars 2021      Jendouba         50                30              10         200
+14    Mars 2021        Kairouan       40                20               5          100
+14    Mars 2021   Kasserine           50                40               7          200 
+14    Mars 2021     Kebili               50                30              10         200
+14    Mars 2021     La Manouba    40                20               5          100
+14    Mars 2021   Le Kef               50                40               7          200 
+14    Mars 2021      Mahdia          50                30              10         200
+14    Mars 2021       Medenine     40                20               5          100
+14    Mars 2021   Monastir          50                40               7          200 
+14    Mars 2021      Nabeul           50                30              10         200
+14    Mars 2021       Sfax              40                20               5          100
+14    Mars 2021   Sidi Bouzid      50                40               7          200       
+14    Mars 2021      Siliana           30                25               7          200
+14    Mars 2021       Sousse          50                20               7          100
+14    Mars 2021   Tataouine        50                40              10         200
+14    Mars 2021    Tozeur            45                 30              10        200
+14    Mars 2021     Tunis              45                 25               5         150
+14    Mars 2021    Zaghouan      45                 30              10        300
+
+10 Mars 2020 Ariana 0 0 0 0
+10 Mars 2020 Beja 0 9 9 9
+Ariana 10 Mars 2020 1 1 1 1
+Ariana 11 Mars 2020 2 2 2 2
+Ariana 10 Mars 2020 1 1 1 1
+Ariana 10 Mars 2020 1 1 1 1
+Ariana 10 Mars 2020 1 1 1 1
+Ariana 10 Mars 2020 1 1 1 1
+Ariana 10 Mars 2020 1 1 1 1
+Tunis 20 Mars 2020 1 2 3 4
+Ariana 20 Mars 2020 2 1 1 1
+Beja 20 Mars 2020 2 2 4 5
+Ariana 10 Mars 2020 0 0 0 0
+Tunis 20 Mars 2020 1 2 3 4
+Beja 20 Mars 2020 2 2 4 5
+Ariana 20 Mars 2020 2 1 1 1
+Tunis 20 Mars 2020 1 2 3 4
+Ariana 20 Mars 2020 2 1 1 1
+Beja 20 Mars 2020 2 2 4 5
+Ariana 10 Mars 2021 50 30 10 200
+Beja 10 Mars 2021 40 20 5 100
+Ben Arous 10 Mars 2021 50 40 7 200
+ariana 10 Mars 2020 1 2 2 2
+tunis 10 Mars 2020 1 2 3 4
+tunis 15 Mars 2021 1 2 3 4
+tunis 10 Mars 2020 1 2 3 4
+tunis 10 Mars 2020 1 1 1 1
+tunis 20 Mars 2020 1 4 7 8
+ben arous 10 Mars 2021 1 2 3 4
+Ariana 10 Mars 2020 1 2 3 4
+Ariana 10 Mars 2021 1 2 4 9
+Ariana 20 Mars 2020 1 2 3 4
+Ariana 20 Mars 2020 1 2 3 4
+Ariana 10 Mars 2020 1 2 3 4
+Ariana 20 Mars 2020 1 1 1 1
+Ariana 20 Mars 2021 1 1 1 1
+Ariana 20 Mars 2020 1 2 3 4
+Ariana 12 Mars 2020 1 2 3 4
+Ariana 11 Mars 2021 1 1 1 1
+Ariana 11 Mars 2021 1 2 2 2
+Ariana 10 Mars 2020 1 2 2 2
+Ariana 20 Mars 2020 0 0 0 0
+Ben Arous 10 Mars 2021 1 1 1 1
+Ben Arous 10 Mars 2021 1 1 1 1
+Ben Arous 4 Mars 2021 1 2 3 4
+Ben Arous 10 Mars 2020 1 2 4 5
+Sidi Bouzid 10 Mars 2021 1 4 4 4
+Tunis 10 Mars 2020 1 2 3 4
+Tunis 3 Avril 2021 0 0 0 0
+Tunis 10 Mars 2021 1 1 1 1
+Tunis 10 Mars 2021 1 1 1 1
+Tunis 1 Mars 2020 1 1 1 1
+Ariana 1 Janvier 2020 1 1 1 1
+Ariana 1 Septembre 2020 1 1 1 1
+Ben Arous 1 Mars 2020 1 1 2 1
+Ben Arous 10 Mars 2019 0 0 0 0
+Ben Arous 1 Septembre 2020 1 1 2 1
+Ben Arous 10 Mars 2021 1 1 1 1
+Tunis 10 Mars 2020 1 1 1 1
+Ariana 1 Mars 2020 1 1 1 1
+Ariana 10 Mars 2020 1 1 1 1
+Ariana 10 Mars 2020 1 1 1 1
+Ben Arous 10 Mars 2020 1 1 0 1

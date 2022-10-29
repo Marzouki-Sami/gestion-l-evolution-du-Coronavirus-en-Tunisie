@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1619996420 source:c:\users\asus\desktop\projet asd2\projet\lstrel.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LSTPRIM.H"
+
+1619054383 c:\users\asus\desktop\projet asd2\projet\lstprim.h
+	"ELTPRIM.H"
+	"LSTSDD.H"
+
+1619779428 c:\users\asus\desktop\projet asd2\projet\eltprim.h
+	"ELTSDD.H"
+	<stdbool.h>
+	<windows.h>
+
+1616761567 c:\users\asus\desktop\projet asd2\projet\eltsdd.h
+	"ELTREL.H"
+
+1619890987 c:\users\asus\desktop\projet asd2\projet\eltrel.h
+
+1616761634 c:\users\asus\desktop\projet asd2\projet\lstsdd.h
+	"LSTREL.H"
+
+1619013492 c:\users\asus\desktop\projet asd2\projet\lstrel.h
+	"ELTPRIM.H"
+
+1620032110 source:c:\users\asus\desktop\projet asd2\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<time.h>
+	<windows.h>
+	"ELTPRIM.h"
+	"LSTPRIM.h"
+
+1619960989 source:c:\users\asus\desktop\projet asd2\projet\eltrel.c
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+	<malloc.h>
+	<string.h>
+	"ELTPRIM.H"
+
+1619960989 source:c:\users\asus\desktop\online education\asd\projet asd2\projet\eltrel.c
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+	<malloc.h>
+	<string.h>
+	"ELTPRIM.H"
+
+1619779428 c:\users\asus\desktop\online education\asd\projet asd2\projet\eltprim.h
+	"ELTSDD.H"
+	<stdbool.h>
+	<windows.h>
+
+1616761567 c:\users\asus\desktop\online education\asd\projet asd2\projet\eltsdd.h
+	"ELTREL.H"
+
+1619890987 c:\users\asus\desktop\online education\asd\projet asd2\projet\eltrel.h
+
+1619996420 source:c:\users\asus\desktop\online education\asd\projet asd2\projet\lstrel.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LSTPRIM.H"
+
+1619054383 c:\users\asus\desktop\online education\asd\projet asd2\projet\lstprim.h
+	"ELTPRIM.H"
+	"LSTSDD.H"
+
+1616761634 c:\users\asus\desktop\online education\asd\projet asd2\projet\lstsdd.h
+	"LSTREL.H"
+
+1619013492 c:\users\asus\desktop\online education\asd\projet asd2\projet\lstrel.h
+	"ELTPRIM.H"
+
+1620032110 source:c:\users\asus\desktop\online education\asd\projet asd2\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<time.h>
+	<windows.h>
+	"ELTPRIM.h"
+	"LSTPRIM.h"
+
+1619960989 source:c:\users\asus\desktop\others\1lnig\asd\projet asd2\projet\eltrel.c
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+	<malloc.h>
+	<string.h>
+	"ELTPRIM.H"
+
+1619779428 c:\users\asus\desktop\others\1lnig\asd\projet asd2\projet\eltprim.h
+	"ELTSDD.H"
+	<stdbool.h>
+	<windows.h>
+
+1616757967 c:\users\asus\desktop\others\1lnig\asd\projet asd2\projet\eltsdd.h
+	"ELTREL.H"
+
+1619890987 c:\users\asus\desktop\others\1lnig\asd\projet asd2\projet\eltrel.h
+
+1619996420 source:c:\users\asus\desktop\others\1lnig\asd\projet asd2\projet\lstrel.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LSTPRIM.H"
+
+1619054383 c:\users\asus\desktop\others\1lnig\asd\projet asd2\projet\lstprim.h
+	"ELTPRIM.H"
+	"LSTSDD.H"
+
+1616758034 c:\users\asus\desktop\others\1lnig\asd\projet asd2\projet\lstsdd.h
+	"LSTREL.H"
+
+1619013492 c:\users\asus\desktop\others\1lnig\asd\projet asd2\projet\lstrel.h
+	"ELTPRIM.H"
+
+1620032110 source:c:\users\asus\desktop\others\1lnig\asd\projet asd2\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<time.h>
+	<windows.h>
+	"ELTPRIM.h"
+	"LSTPRIM.h"
+
